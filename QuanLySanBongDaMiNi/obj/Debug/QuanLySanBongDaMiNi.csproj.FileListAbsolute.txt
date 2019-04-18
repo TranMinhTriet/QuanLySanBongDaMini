@@ -1,0 +1,11 @@
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\bin\Debug\QuanLySanBongDaMiNi.exe.config
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\bin\Debug\QuanLySanBongDaMiNi.exe
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\bin\Debug\QuanLySanBongDaMiNi.pdb
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\obj\Debug\QuanLySanBongDaMiNi.csprojAssemblyReference.cache
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\obj\Debug\QuanLySanBongDaMiNi.Properties.Resources.resources
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\obj\Debug\QuanLySanBongDaMiNi.csproj.GenerateResource.cache
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\obj\Debug\QuanLySanBongDaMiNi.csproj.CoreCompileInputs.cache
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\obj\Debug\QuanLySanBongDaMiNi.exe
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\obj\Debug\QuanLySanBongDaMiNi.pdb
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\obj\Debug\QuanLySanBongDaMiNi.fLogin.resources
+D:\CNTT TDT\HocKy4\Software Enginering\Assignment\QuanLySanBongDaMiNi\QuanLySanBongDaMiNi\obj\Debug\QuanLySanBongDaMiNi.SanBongManager.resources
