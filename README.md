@@ -1,2 +1,2 @@
 # QuanLySanBongDaMini
-Đây là project cho môn Công nghệ phần mềm 
+Đây là đồ án cho môn Công nghệ phần mềm 
