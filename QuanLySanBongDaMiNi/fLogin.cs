@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuanLySanBongDaMiNi.DAO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,10 +19,24 @@ namespace QuanLySanBongDaMiNi
         }
         private void bttLogin_Click(object sender, EventArgs e)
         {
-            SanBongManager formQLSB = new SanBongManager();
-            this.Hide();
-            formQLSB.ShowDialog();
-            this.Show();
+            string userName = txtbID.Text;
+            string passWord = txtbPass.Text;
+            if (Login(userName, passWord))
+            {
+                fSanBong formQLSB = new fSanBong();
+                this.Hide();
+                formQLSB.ShowDialog();
+                this.Show();
+            }
+            else
+            {
+                MessageBox.Show("Sai tên tài khoản hoặc mật khẩu!");
+            }
+        }
+
+        bool Login(string userName, string passWord)
+        {
+            return AccountDAO.Instance.Login(userName, passWord);
         }
 
         private void bttExit_Click(object sender, EventArgs e)
@@ -31,7 +46,7 @@ namespace QuanLySanBongDaMiNi
 
         private void fLogin_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if(MessageBox.Show("Bạn có muốn thoát chương trình ?","Thông báo",MessageBoxButtons.OKCancel) != System.Windows.Forms.DialogResult.OK)
+            if (MessageBox.Show("Bạn có muốn thoát chương trình ?", "Thông báo", MessageBoxButtons.OKCancel) != System.Windows.Forms.DialogResult.OK)
             {
                 e.Cancel = true;
             }
